@@ -100,8 +100,6 @@ def parse_payload_one(URL,DC):
 					return IAM
 
 					
-					
-=
 	
 
 
