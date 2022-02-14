@@ -13,3 +13,7 @@ python consul-aws.py -s http://127.0.0.1
 ```
 
 [![consu.jpg](https://i.postimg.cc/NLhXHv64/consu.jpg)](https://postimg.cc/D4g09DYJ)
+
+Use a VPS from DO
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e22bbff5f6f1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
